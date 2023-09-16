@@ -51,4 +51,4 @@ Contributions, bug reports, and feature requests are welcome! Feel free to open 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-_Feel free to modify and expand upon this GitHub description and content as needed for your repository. Be sure to replace https://github.com/yourusername/AI-Powered-WordPress-Blog-Generator.git with the actual URL of your GitHub repository._
+_Feel free to modify and expand upon this GitHub description and content as needed for your repository. Be sure to replace https://github.com/haseemajaz/AI-Powered-WordPress-Blog-Generator.git with the actual URL of your GitHub repository._
